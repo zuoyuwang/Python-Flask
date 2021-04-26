@@ -1,0 +1,38 @@
+{
+  "size": {
+    "small": 10,
+    "medium": 20,
+    "large": 30
+  },
+  "type": {
+    "pepperoni": 18,
+    "margherita": 16,
+    "vegetarian": 15,
+    "Neapolitan": 17,
+    "Customize": 10
+  },
+  "topping": {
+    "olives": 1,
+    "tomatoes": 2,
+    "mushrooms": 3,
+    "jalapenos": 4,
+    "chicken": 5,
+    "beef": 6,
+    "pepperoni": 7
+  },
+  "drink": {
+    "Coke": 4,
+    "Diet Coke": 4.5,
+    "Coke Zero": 4.5,
+    "Pepsi": 4,
+    "Diet Pepsi": 4.5,
+    "Dr. Pepper": 4,
+    "Water": 2,
+    "Juice": 3
+  },
+  "message": {
+    "No warning": "No such order or item!",
+    "Format warning": "Wrong format!",
+    "Cancel message": "Cancel Successfully"
+  }
+}

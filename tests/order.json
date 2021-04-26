@@ -1,0 +1,64 @@
+{
+  "1": {
+    "order number": 1,
+    "details": {
+      "pizza": [
+        {
+          "size": "small",
+          "type": "pepperoni",
+          "toppings": {
+            "olives": 1,
+            "mushrooms": 1,
+            "beef": 1
+          }
+        }
+      ],
+      "drinks": {
+        "Coke": 2
+      }
+    },
+    "price": 40,
+    "delivery": "pickup"
+  },
+  "2": {
+    "order number": 2,
+    "details": {
+      "pizza": [
+        {
+          "size": "small",
+          "type": "pepperoni",
+          "toppings": {
+            "olives": 1,
+            "mushrooms": 3,
+            "beef": 1
+          }
+        }
+      ],
+      "drinks": {
+        "Coke": 2
+      }
+    },
+    "price": 46,
+    "delivery": "Foodora"
+  },
+  "3": {
+    "order number": 3,
+    "details": {
+      "pizza": [
+        {
+          "size": "medium",
+          "type": "Customize",
+          "toppings": {
+            "chicken": 2
+          }
+        }
+      ],
+      "drinks": {
+        "Diet Coke": 1,
+        "Pepsi": 1
+      }
+    },
+    "price": 48.5,
+    "delivery": "Uber Eats"
+  }
+}

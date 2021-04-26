@@ -1,0 +1,45 @@
+{
+  "uber": {
+    "3": {
+      "Address": "887 Bay street",
+      "Order Details": {
+        "pizza": [
+          {
+            "size": "medium",
+            "type": "Customize",
+            "toppings": {
+              "chicken": 2
+            }
+          }
+        ],
+        "drinks": {
+          "Diet Coke": 1,
+          "Pepsi": 1
+        }
+      },
+      "Order Number": 3
+    }
+  },
+  "Foodora": {
+    "2": {
+      "Address": "333 Yonge street",
+      "Order Details": {
+        "pizza": [
+          {
+            "size": "small",
+            "type": "pepperoni",
+            "toppings": {
+              "olives": 1,
+              "mushrooms": 3,
+              "beef": 1
+            }
+          }
+        ],
+        "drinks": {
+          "Coke": 2
+        }
+      },
+      "Order Number": 2
+    }
+  }
+}
