@@ -1,4 +1,4 @@
-# a2-zuoyu wang, anyue huang
+# Python Flask Project - Zuoyu Wang, Anyue Huang
 
 Run the main Flask server module by running `python3 PizzaParlour.py`
 
